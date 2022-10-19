@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a CS grad student at the University of Florida. I like to experiment with Large Language models.
+
 <!--
 **Chirayu-Tripathi/Chirayu-Tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
