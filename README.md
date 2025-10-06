@@ -2,6 +2,13 @@
 
 I am a CS grad student at the University of Florida. I like to experiment with Large Language models.
 
+[![Chirayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirayu-Tripathi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirayu-Tripathi)](https://github.com/anuraghazra/github-readme-stats)
+
+### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **Chirayu-Tripathi/Chirayu-Tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
